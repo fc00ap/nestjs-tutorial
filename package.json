@@ -23,6 +23,9 @@
     "@nestjs/common": "^6.7.2",
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
+    "@typegoose/typegoose": "^6.2.1",
+    "mongoose": "^4.13.20",
+    "nestjs-typegoose": "^7.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0",
     "rxjs": "^6.5.3"
